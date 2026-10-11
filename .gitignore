@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# PlatformIO
+.pio/
+.vscode/
+
+# Credenciales y datos propios
+firmware/src/secrets.h
+datos/lecturas.csv
+grafico.png
+resumen.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
